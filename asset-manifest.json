@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rahulkumarchander.github.io/csb-mowzul/static/css/main.e38213d3.chunk.css",
+    "main.js": "https://rahulkumarchander.github.io/csb-mowzul/static/js/main.fc554875.chunk.js",
+    "main.js.map": "https://rahulkumarchander.github.io/csb-mowzul/static/js/main.fc554875.chunk.js.map",
+    "runtime-main.js": "https://rahulkumarchander.github.io/csb-mowzul/static/js/runtime-main.65c9f695.js",
+    "runtime-main.js.map": "https://rahulkumarchander.github.io/csb-mowzul/static/js/runtime-main.65c9f695.js.map",
+    "static/js/2.64b570d4.chunk.js": "https://rahulkumarchander.github.io/csb-mowzul/static/js/2.64b570d4.chunk.js",
+    "static/js/2.64b570d4.chunk.js.map": "https://rahulkumarchander.github.io/csb-mowzul/static/js/2.64b570d4.chunk.js.map",
+    "index.html": "https://rahulkumarchander.github.io/csb-mowzul/index.html",
+    "static/css/main.e38213d3.chunk.css.map": "https://rahulkumarchander.github.io/csb-mowzul/static/css/main.e38213d3.chunk.css.map",
+    "static/js/2.64b570d4.chunk.js.LICENSE.txt": "https://rahulkumarchander.github.io/csb-mowzul/static/js/2.64b570d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65c9f695.js",
+    "static/js/2.64b570d4.chunk.js",
+    "static/css/main.e38213d3.chunk.css",
+    "static/js/main.fc554875.chunk.js"
+  ]
+}
